@@ -1,0 +1,5 @@
+- Cleanup code
+- Non-destructive read/write and read-only tests
+- Verbosity level and progress/error messages
+- `aux/statusbar`-compatible output
+- Write man page
